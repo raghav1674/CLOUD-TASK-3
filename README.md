@@ -1,5 +1,10 @@
 # CLOUD-TASK-3
 
+
+I have used my own created ami for WORDPRESS AND MYSQL .
+
+[Setup  Procedure](https://github.com/raghav1674/INSTALL-CONFIGURE-WP-MYSQL-SERVER/blob/master/README.md) 
+
 ## Statement: We have to create a web portal for our company with all the security as much as possible.
    So, we use Wordpress software with dedicated database server.
    Database should not be accessible from the outside world for security purposes.
